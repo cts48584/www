@@ -1,3 +1,1 @@
----
----
-importScripts("{{ '/assets/js/sw.js' | relative_url }}?t={{ site.time | date_to_xmlschema }}");
+importScripts("/www/assets/js/sw.js?t=2019-07-17T08:14:10+00:00");
