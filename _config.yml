@@ -244,6 +244,15 @@ exclude:
   - hyde/
   - _projects/
   - hydejack/
+  - _layouts/projects.html
+  - _layouts/resume.html
+  - _includes/other-projects.html
+  - _includes/project-card.html
+  - _includes/resume/
+  - _includes/styles/pro/
+  - _sass/pro/
+  - projects.md
+  - resume.md
 include:
   - LICENSE.md
 
